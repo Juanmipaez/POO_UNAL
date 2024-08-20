@@ -20,7 +20,7 @@ public class Prueba{
         System.out.println();
         EntradaDatos.nextLine();
 
-        System.out.println("Ingrese datos Apto Familiar");
+        System.out.println("Ingrese datos Aparta Estudio");
         System.out.println("Ingrese Direccion: ");
         String DireccionApstudio = EntradaDatos.nextLine();
         System.out.println("Ingrese Identificador Inmobiliario: ");
